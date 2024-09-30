@@ -9,5 +9,8 @@ Flask = "3.0.3"
 Flask-migrate =  "3.1.0"
 Flask-SQLAlchemy = "3.0.3"
 
+
+
+
 [requires]
 python_full_version = "3.8.13"
